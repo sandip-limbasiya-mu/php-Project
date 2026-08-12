@@ -1,10 +1,5 @@
 <?php
-/**
- * footer.php - Common Footer File
- * 
- * This file is included at the bottom of every page.
- * It closes the container, shows copyright and includes Bootstrap JS.
- */
+
 ?>
     </div> <!-- Close the main container div from header.php -->
     
