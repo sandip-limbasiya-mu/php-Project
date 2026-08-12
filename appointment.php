@@ -1,10 +1,5 @@
 <?php
-/**
- * appointment.php - Book Appointment Page
- * 
- * Patients use this page to book new appointments with doctors.
- * Patients select a doctor, date, time, and write a reason for visit.
- */
+
 
 require_once 'config.php';
 
