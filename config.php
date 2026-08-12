@@ -1,7 +1,6 @@
 <?php
 /**
  * config.php - Database Configuration File
- * 
  * This file establishes a connection to the MySQL database using PDO.
  * It's included in every other file that needs database access.
  */
