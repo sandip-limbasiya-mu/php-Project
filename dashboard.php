@@ -1,7 +1,7 @@
 <?php
 /**
  * dashboard.php - Dashboard Page
- * 
+ 
  * This is the main landing page after login.
  * Admin sees total doctors/patients/appointments stats.
  * Patient sees their own appointment summary.
