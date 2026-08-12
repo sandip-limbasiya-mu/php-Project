@@ -1,7 +1,7 @@
 <?php
 /**
  * login.php - User Login Page
- * 
+  
  * This page allows users (Admin / Patient) to log in.
  * It validates email and password against the database and creates a session.
  */
